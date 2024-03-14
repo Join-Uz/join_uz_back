@@ -1,4 +1,4 @@
-package com.example.joinuz2.controller;
+package com.example.joinuz2.healthcheck;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
